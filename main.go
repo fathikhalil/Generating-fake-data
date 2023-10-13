@@ -40,7 +40,7 @@ func main() {
 
 	app.Post("/api/item/create", func(c *fiber.Ctx) error {
 
-		for i := 0; i < 500; i++ {
+		for i := 0; i < 5000; i++ {
 			db.Create(&Item{
 
 				// Create Fake Name with faker repo
