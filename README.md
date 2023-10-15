@@ -1,5 +1,6 @@
 # Generating-fake-data
-## Code Generating 5000 ID , Name , Phone , Email . you can increase number as well 
+<h3> 👨🏻‍💻 Code Generating 5000 ID , Name , Phone , Email . you can increase number by editing the code </h3>
+
 - 🎓 Code with Amazing GO language.
 - Generating fake data to use for practice & education.
 - Used bxcodec/faker & Fiber Web Framework.
